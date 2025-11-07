@@ -14,7 +14,7 @@ const projects: Project[] = [
     description: 'Hospital website with patient information and services.',
     stack: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
     image: '/images/hospital.png',
-    links: { demo: '#', github: '#' },
+    links: { demo: 'https://solent-health-care.netlify.app/', github: 'https://github.com/thanismmm/Hospital-Website' },
   },
   {
     name: 'Reporting System',
@@ -35,7 +35,7 @@ const projects: Project[] = [
     description: 'React app consuming Open News API for latest headlines.',
     stack: ['React', 'Open News API'],
     image: '/images/newspage.png',
-    links: { demo: '#', github: '#' },
+    links: { demo: 'https://news-page-2024.netlify.app/', github: 'https://github.com/thanismmm/News-Page' },
   },
   {
     name: 'Book Recommendation System',
