@@ -8,7 +8,7 @@ export function Hero() {
     'Web Developer',
     'Frontend Developer',
     'Mobile App Developer',
-    'FullStack Developer',
+    'FullStack Developer ', 
   ], []);
 
   const [roleIndex, setRoleIndex] = useState(0);
