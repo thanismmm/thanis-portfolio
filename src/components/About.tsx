@@ -21,7 +21,7 @@ export function About() {
           className="w-40 h-40 md:w-52 md:h-52 rounded-2xl bg-gradient-to-br from-brand/30 to-transparent border border-slate-200 dark:border-slate-800 overflow-hidden mx-auto md:mx-0"
         >
           <img
-            src="/public/profile.jpg"
+            src="images/profile.JPG"
             alt="Mohammed Thanis profile"
             className="w-full h-full object-cover"
             loading="lazy"
