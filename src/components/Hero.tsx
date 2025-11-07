@@ -1,5 +1,7 @@
 import { motion } from 'framer-motion';
 import { useEffect, useMemo, useState } from 'react';
+import profile from "../assets/images/profile.jpg";
+
 
 export function Hero() {
   const roles = useMemo(() => [
@@ -52,7 +54,7 @@ export function Hero() {
       >
         <div className="flex justify-center mb-6">
           <motion.img
-            src="/images/profile.jpg"
+            src={profile}
             alt="Mohammed Thanis profile"
             className="mx-auto w-24 h-24 sm:w-28 sm:h-28 md:w-32 md:h-32 rounded-full object-cover object-center ring-2 ring-brand/50 shadow-lg"
             initial={{ scale: 0.95, opacity: 0 }}
