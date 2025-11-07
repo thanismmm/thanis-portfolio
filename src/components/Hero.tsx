@@ -52,7 +52,7 @@ export function Hero() {
       >
         <div className="flex justify-center mb-6">
           <motion.img
-            src="/profile.JPG"
+            src="/images/profile.jpg"
             alt="Mohammed Thanis profile"
             className="mx-auto w-24 h-24 sm:w-28 sm:h-28 md:w-32 md:h-32 rounded-full object-cover object-center ring-2 ring-brand/50 shadow-lg"
             initial={{ scale: 0.95, opacity: 0 }}
