@@ -79,7 +79,7 @@ export function Hero() {
         </p>
         <div className="mt-8 flex items-center justify-center gap-3">
           <a href="#projects" className="px-5 py-3 rounded-lg bg-brand text-white hover:bg-brand-dark transition-colors">View Projects</a>
-          <a target='_blank' href="/public/thanis-webcv-qatar.pdf" className="px-5 py-3 rounded-lg border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-900 transition-colors">Download Resume</a>
+          <a target='_blank' href="images/thanis-webcv-qatar.pdf" className="px-5 py-3 rounded-lg border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-900 transition-colors">Download Resume</a>
         </div>
       </motion.div>
     </div>
