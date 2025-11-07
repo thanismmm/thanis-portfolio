@@ -5,7 +5,7 @@ export function About() {
     <section className="container-section py-16" aria-label="About Mohammed Thanis">
       <motion.h2
         initial={{ opacity: 0, y: 10 }}
-        whileInView={{ opacity: 1, y: 0 }}
+        whileInView={{ opacity: 1, y: 0 }} 
         viewport={{ once: true }}
         transition={{ duration: 0.5 }}
         className="text-2xl font-bold mb-8"
