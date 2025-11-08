@@ -5,7 +5,7 @@ const categories = [
   { title: 'Backend', items: ['Node.js', 'Express.js', 'Flask', 'PHP'] },
   { title: 'Database', items: ['MySQL', 'MongoDB'] },
   { title: 'Cloud & Tools', items: ['Azure', 'Git', 'Netlify', 'Vercel', 'Postman'] },
-  { title: 'Other', items: ['Flutter', 'Networking (TCP/IP, DHCP, DNS, VPN)'] },
+  { title: 'Mobile & UI Design', items: ['Flutter', 'Figma', 'Canva Sketch'] },
 ];
 
 export function Skills() {
