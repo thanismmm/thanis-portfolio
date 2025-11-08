@@ -17,6 +17,13 @@ const projects: Project[] = [
     links: { demo: 'https://solent-health-care.netlify.app/', github: 'https://github.com/thanismmm/Hospital-Website' },
   },
   {
+    name: 'Barber Shop UI Design',
+    description: 'Designed user-friendly mobile app Smart Barber in Figma with wireframes and an interactive prototype for seamless booking.',
+    stack: ['Figma', 'Wireframing', 'Prototyping', 'UI/UX Design',],
+    image: '/images/barber.png',
+    links: { demo: 'https://www.figma.com/design/VEOJjWV5SPnUnOYF5KBZwQ/Smart-Barber?node-id=0-1&p=f' },
+  },
+  {
     name: 'Reporting System',
     description: 'Python & Streamlit analytics dashboard for reporting needs.',
     stack: ['Python', 'Streamlit'],
